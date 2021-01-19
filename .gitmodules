@@ -1,0 +1,3 @@
+[submodule "config/gnupg"]
+	path = config/gnupg
+	url = git@gist.github.com:172c4e0835b839a904f4d0a7a3e2abc4.git
