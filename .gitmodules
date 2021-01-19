@@ -1,3 +1,15 @@
 [submodule "config/gnupg"]
 	path = config/gnupg
 	url = git@gist.github.com:172c4e0835b839a904f4d0a7a3e2abc4.git
+[submodule "local/src/dmenu"]
+	path = local/src/dmenu
+	url = git@github.com:robert-marshall/dmenu.git
+[submodule "local/src/slock"]
+	path = local/src/slock
+	url = git@github.com:robert-marshall/slock.git
+[submodule "local/src/dwm"]
+	path = local/src/dwm
+	url = git@github.com:robert-marshall/dwm.git
+[submodule "local/src/st"]
+	path = local/src/st
+	url = git@github.com:robert-marshall/st.git
