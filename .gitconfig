@@ -1,0 +1,21 @@
+[user]
+        name = Robert Marshall
+        email = robert@robertmarshall.xyz
+        signingkey = 4D676396D9CEBA36
+[core]
+        editor = vi
+[color]
+        status = auto
+        ui = true
+[commit]
+        gpgSign = true
+[alias]
+        up = push origin master
+        down = pull origin master
+        subup = submodule update --remote
+        subdown = submodule init
+        sub = !git subdown && git subup
+        jekyll = push deploy master
+        wtc = !git commit -m \"$(curl -s whatthecommit.com/index.txt)\"
+[gpg]
+        program = gpg
