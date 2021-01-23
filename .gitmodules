@@ -13,3 +13,6 @@
 [submodule "local/src/st"]
 	path = local/src/st
 	url = git@github.com:robert-marshall/st.git
+[submodule "config/shell/zsh/ohmyzsh"]
+	path = config/shell/zsh/ohmyzsh
+	url = git@github.com:robert-marshall/ohmyzsh.git
